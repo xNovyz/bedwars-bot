@@ -5,6 +5,7 @@ vocali delle squadre e permette ai capitani di "pickare" i giocatori.
 
 ## Comandi
 
+- **/ping** — risponde con la latenza; utile per verificare che il bot sia online.
 - **/startdraft lobby:<canale vocale>** — sceglie 2 capitani a caso tra chi è connesso al canale
   indicato, crea i canali vocali `TEAM RED` e `TEAM GREEN` e sposta i capitani nei rispettivi canali.
 - **/pick giocatore1 giocatore2 ...** — utilizzabile solo dai capitani. Sposta nel proprio canale
